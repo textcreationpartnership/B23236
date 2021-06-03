@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French plot detected being a relation of a late barbarous and horrid design of the French, to burn and destroy the Spanish fleet in the port of Naples, and of their design of bombarding that city : with an account of the examination, confession, and execution of an Italian abbot (late confessor to the Spanish Admiral) and five romish priests, his accomplices, for the said horrid conspiracy.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23236</idno><idno type="EEBO-CITATION">14874206</idno>
+  <idno type="VID">206133</idno>
+  <idno type="EEBO-PROQUEST">2248498899</idno>
+  
+            <idno type="STC">Wing F2193</idno>
+            <idno type="OCLC">14874206</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206133)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1570:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French plot detected being a relation of a late barbarous and horrid design of the French, to burn and destroy the Spanish fleet in the port of Naples, and of their design of bombarding that city : with an account of the examination, confession, and execution of an Italian abbot (late confessor to the Spanish Admiral) and five romish priests, his accomplices, for the said horrid conspiracy.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed according to order."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">France --  History --  Louis XIV, 1643-1715.</term>
+               <term type="geographic_name">Spain --  History --  Charles II, 1665-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:206133:1"/>
+            <head>THE French Plot Detected.</head>
+            <head type="sub">BEING A Relation of a late Barbarous and Horrid Design of the <hi>French,</hi> to Burn and Destroy the <hi>Spanish</hi> Fleet, in the Port of <hi>Naples;</hi> and of their Design of Bombarding that City.</head>
+            <head type="sub">With an Account of the Examination, Confession, and Execution of an <hi>Italian</hi> Abbot, (late Confessor to the <hi>Spanish</hi> Admiral) and Five <hi>Romish</hi> Priests, his Accomplices, for the said Horrid Conspiracy.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licensed according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THE Dint of Sword, and Policy of Conduct, together with a due Reliance on assisting Provi<g ref="char:EOLhyphen"/>dence to Crown the Success of Battle, are the great Hinges of War, on which every just Cause and glorious Arm should depend. But as <hi>France</hi> has too little of the last two Pretensions, it has not overmuch Gonfidence in the sole strength of the three first Supporters; and therefore has recourse to a Fourth Auxi<g ref="char:EOLhyphen"/>liary, <hi>vix. Infidelity,</hi> such as the vile and abject Treachery of sordid and Mercina<g ref="char:EOLhyphen"/>ry Renegadoes and Traytors, to betray Success and Victory into their Hands, if those fair Names may properly be given to such foul practises. A more notorious instance of which has not been, than in their late <hi>Italian</hi> Expedition, the Desings and Attempt of their <hi>Thoulon</hi> Fleet, upon the City and Fort of <hi>Naplas,</hi> and the <hi>Spa<g ref="char:EOLhyphen"/>nish</hi> Fleet before it.</p>
+            <p>The Martial part of our Relation has been already sufficiently and loudly pub<g ref="char:EOLhyphen"/>lish'd: Nevertheless, as a necessary Intro<g ref="char:EOLhyphen"/>ductian to our following Narration, we must make some short Repetition, and tell you, that the <hi>French Thoulon</hi> Squadron, consisting of 22 Capital Ships, with Nine <hi>Bomb-Ketches,</hi> and 12 <hi>Fire-Ships,</hi> and all other necessary Attendance, set Sail the 12th. of the last Month, with a Design up<g ref="char:EOLhyphen"/>on the City of <hi>Naples,</hi> and the whole <hi>Spanish</hi> Fleet, as well Merchants as Men of War, lying in the Port before that City. Now so far as this Expedition was silently formed, and carried on so near to Execu<g ref="char:EOLhyphen"/>tion; as to that part of the <hi>French</hi> Con<g ref="char:EOLhyphen"/>duct, to be just to an Enemy, we must ascribe them all due Honour: The Execution likewise of such a Design, as endeavour<g ref="char:EOLhyphen"/>ing no less than the Burning the whole <hi>Spanish</hi> Fleet, and Bombarding of so capi<g ref="char:EOLhyphen"/>tal a City under the Dominion of <hi>Spain,</hi> as <hi>Naplos,</hi> which gives its Name to the whole Kingdom, and possibly grants the Precedence to no fairer, nor richer Sister <hi>(Rome</hi> only excepted) thro' all the Prin<g ref="char:EOLhyphen"/>cipalities of <hi>Italy;</hi> so formidable a Design, we must acknowledge a Projection of Bulk and Importance.</p>
+            <p>But when we must descend, so far as to inform you of their poor and sordid Measures, taken for accomplishing so vast a Design, instead of <hi>France</hi>'s priding her self in her high Atchievments of Glory, she has but too much Reason to blush at the infamous Foundation, on which she builds them. For example, for manag<g ref="char:EOLhyphen"/>ing this intended Blow upon <hi>Naples,</hi> as the stroke was not to be so much their own handy work, as indeed no such open, or generous Hostility, they had privately corrupted and suborned a Traytor, of no less Figure than an <hi>Italian</hi> Abbot, and Confessor, to <hi>Papuchino</hi> the Spanish Ad<g ref="char:EOLhyphen"/>miral, who together with five other beje<g ref="char:EOLhyphen"/>suited Sub▪villain Tools, had laid this Horrid and Execrable Plot, which was upon the first Advance of the <hi>French</hi> Fleet, to have set their own Admiral's Ship of fire, by a <hi>Fire-Chest,</hi> prepared for the pur<g ref="char:EOLhyphen"/>pose; the effects of which, as possibly it might be of that dangerous Consequence, as spreading a larger Conflagration thro' the whole <hi>Spanish</hi> Fleet, or at least it would certainly strike that Consternati<g ref="char:EOLhyphen"/>on and Confusion through them, as to fa<g ref="char:EOLhyphen"/>cilitate the <hi>French</hi> Access, by giving them means and opportunity of making an ea<g ref="char:EOLhyphen"/>sier Execution by their own <hi>Fire-Ships;</hi> and thereby, after the entire Destruction of the <hi>Spanish</hi> Fleet, to have been made Masters of the whole Port, and so have been rendered capable of laying one of
+<pb facs="tcp:206133:2"/> the most glorious Cities in <hi>Europe</hi> in Rub<g ref="char:EOLhyphen"/>bish and Ashes, by their Bombs and Mortars.</p>
+            <p>This Egregious Villainy, though thus near hatcht, had nevertheless this peculi<g ref="char:EOLhyphen"/>ar Defeat, through a special Blessing and Providence, as to be crusht in the <hi>Embrio.</hi> For by a private Intelligence, received from <hi>Rome,</hi> not only the intended Approach of the <hi>French</hi> Fleet was advertised (though not many Hours before its appearance) but likewise this whole Treachery was informed the <hi>Viceroy</hi> of <hi>Naples;</hi> who cau<g ref="char:EOLhyphen"/>sing the Traytors to be all Apprehended, the Treason was charged upon them, though very obstinately and utterly de<g ref="char:EOLhyphen"/>nied by them all, especially the <hi>Abbot,</hi> Ne<g ref="char:EOLhyphen"/>vertheless, the <hi>Vice-roy</hi>'s Intelligence being too authentick (as being supposed to come from no less a Hand than the <hi>Pope's)</hi> and being likewise supported and con<g ref="char:EOLhyphen"/>firm'd in each part and point, by a frail weak Brother, whose remorse of Consci<g ref="char:EOLhyphen"/>ence bad made him fall off from the Par<g ref="char:EOLhyphen"/>ty, he was so fully confronted with it, 'till at last he confest the Fact, and was accordingly, with the rest of his wicked Accomplices, immediately hang'd at the Yards Arm. After this Conviction, upon some Questions made him, <hi>viz.</hi> What mo<g ref="char:EOLhyphen"/>tives could induce him to so barbarous a Treason against his own Native Prince, and that too in behalf of the Universal Enemy of <hi>Europe,</hi> he was pleased to An<g ref="char:EOLhyphen"/>swer, <hi>That what be acted was out of a prin<g ref="char:EOLhyphen"/>ciple of Religion. For as the King of</hi> France <hi>had in so many several Respects sig<g ref="char:EOLhyphen"/>nalized himself so true a Son of the</hi> Church; <hi>and on the other side the King of</hi> Spain <hi>had so notoriously Leagued and Consorted with</hi> Hereticks, <hi>he had entertained a veneration for the one, and an aversion for the other; and from thence had been perswaded into this particular Service to</hi> France.</p>
+            <p>Having given you this full Matter of Fact, I shall not make any long Flourish or Discant upon it, only ohserve, That we are not so much to wonder at <hi>France</hi>'s clandestine Traffick with Villains and Miscreants, for gaining her ends; for 'tis not to be supposed she could shrink at hi<g ref="char:EOLhyphen"/>ring of Traytors to burn Navies, when last Campaign in <hi>Flanders,</hi> (to her only glory be it recorded) she could hire Ruf<g ref="char:EOLhyphen"/>fians to murder Kings; nor is this Abbot's Religions Motives for his Infidelity, any new Miracle, when if we will but look back, we shall find the surrender of <hi>Mons</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be owing to much such another Eccle<g ref="char:EOLhyphen"/>siastick Persuasive: All that looks strange in it, is, that the Enthusiastick Members of a Church, should have those Tran<g ref="char:EOLhyphen"/>sports of extravagant Zeal, more than the Head of it himself has. They may call it their Religion to contrive and perpetrate such a Treason, when he may think it a part of his Religion to detect and blast it.</p>
+            <p>But to return to our Narrative, The Accomplishment of this Design, besides the blow it had given the <hi>Spaniards,</hi> had yet a further reach. The Scene of Action was laid in the <hi>Miditerranean Seas,</hi> as of<g ref="char:EOLhyphen"/>fering, possibly, one of the best occasions of Aggrandizing the <hi>French Glory,</hi> when so important a Naval Success (as expect<g ref="char:EOLhyphen"/>ed) so near his grand Allie, the <hi>Turk,</hi> had undoubtedly not only confirmed the glo<g ref="char:EOLhyphen"/>rious Character of the <hi>French</hi> King, so in<g ref="char:EOLhyphen"/>dustriously heightned and magnified at <hi>Constantinople,</hi> and thereby not a little strengthened the Interests and Confede<g ref="char:EOLhyphen"/>racies betwixt the most Christian, and most Antichristian Monarch; but likewise had, in a very high measure, repair'd their last Years Dishonour and Losses at Sea.</p>
+            <p>But whatever Renown or Advantages they had proposed to themselves, their whole Conduct herein has, on the con<g ref="char:EOLhyphen"/>trary, so blazon'd both their weakness and shame, that though their loss has not equall'd that of the last Year, their Re<g ref="char:EOLhyphen"/>putation has suffered little less. For on the <hi>18th.</hi> of the last Month, with 22 Capital Ships, with <hi>English</hi> and <hi>Dutch</hi> Colours, they appeared before <hi>Naples,</hi> on the <hi>19th.</hi> they advanced so near, as with<g ref="char:EOLhyphen"/>in reach of Cannon Shot, both from the <hi>Spanish</hi> Fleet, and the Castle of <hi>Baya,</hi> and the Batteries from the Rocks on the Shoar; from all which they were very warmly sa<g ref="char:EOLhyphen"/>luted with the Enemies Shot: but instead of returning the Compliment, the next day they drew farther off; and the <hi>21th.</hi> and <hi>22th.</hi> lay off at Sea, and the day fol<g ref="char:EOLhyphen"/>lowing, without the least Attempt what<g ref="char:EOLhyphen"/>ever, not so much as the discharge of one single Gun, they very shamefully retired towards <hi>Thoulon.</hi>
+            </p>
+            <p>Thus their Plot detected, their Hire<g ref="char:EOLhyphen"/>lings hang'd, their Enemies provided and prepared for their Reception, they poorly Skulkt home again, and being immediate<g ref="char:EOLhyphen"/>ly after dispersed and shattered by a vio<g ref="char:EOLhyphen"/>lent Storm, they made hard shift, not 'till the fourth Instant, to reach <hi>Thoulon,</hi> with not only some sad marks of the angry Heavens, the Tempest they had suffered under, but likewise with the double mor<g ref="char:EOLhyphen"/>tification of so glorious an Enterprize so meanly frustrated, and so potent an Allie as the Grand Seignour, so near neigh<g ref="char:EOLhyphen"/>bouring a Witness, of so inglorious a Re<g ref="char:EOLhyphen"/>treat and Defeat.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> J. Wright, <hi>in</hi> Fleet-street, 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
